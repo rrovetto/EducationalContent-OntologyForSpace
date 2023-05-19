@@ -1,1 +1,1 @@
-# EducationalContent-OntologyForSpace
+# Educational Content: Ontology For Space
